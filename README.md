@@ -3,6 +3,10 @@ Capstone project for the Data Scientist Nanodegree from Udacity
 
 For this project, I applied Supervised Machine Learning Algorithms to predict customer churn in the banking industry.
 
+# Blog link
+
+https://meous007.medium.com/application-of-supervised-machine-learning-algorithms-in-predicting-customer-churn-in-the-banking-e4351a0d3111
+
 # Data
 
 Data was obtained from Kaggle
