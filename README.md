@@ -33,5 +33,7 @@ This project leverages supervised machine learning techniques in predicting cust
 Reference
 
 1. https://uruit.com/blog/churn-prediction-machine-learning/
-2. Verbeke W, Martens D, Mues C, Baesens B (2011) Building comprehensible customer churn prediction models with advanced rule induction techniques. Expert Syst Appl 38:2354–2364
-3. Tsai C-F, Chen M-Y (2010) Variable selection by association rules for customer churn prediction of multimedia on demand. Expert Syst Appl 37:2006–2015
+2. https://www.analyseup.com/python-machine-learning/xgboost-parameter-tuning.html
+3. Verbeke W, Martens D, Mues C, Baesens B (2011) Building comprehensible customer churn prediction models with advanced rule induction techniques. Expert Syst Appl 38:2354–2364
+4. Tsai C-F, Chen M-Y (2010) Variable selection by association rules for customer churn prediction of multimedia on demand. Expert Syst Appl 37:2006–2015
+
